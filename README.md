@@ -1,7 +1,7 @@
 # ThinkLog
 
 * Thinkphp3，Thinkphp5，Thinkphp6，日志泄漏批量下载。(如果感觉对您有帮助，感觉不错的话，请您给个大大的 ⭐️❗️)
-* javafx可视化框架编写，后端架构自认为较完美，想写GUI工具的，反编译Jar包即可。
+* javafx可视化框架编写。
 * 实战中日志泄漏较RCE更常见，快速提取存在的大量日志泄漏，寻找敏感信息及漏洞。
 * 检测不到的payload欢迎提交payload至issues。
 
